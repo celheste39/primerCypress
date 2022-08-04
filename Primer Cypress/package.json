@@ -1,0 +1,14 @@
+{
+  "name": "automatizacion",
+  "version": "1.0.0",
+  "description": "primer proyecto con cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateo Moncada",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.1.0"
+  }
+}
